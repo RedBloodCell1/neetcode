@@ -5,3 +5,7 @@ Day ? (Lets call it day 1):
 - So here i will go for linked list. Doing "Reorder Linked List"
 - HOLY.... I DID TRAPPING RAIN WATER (HARD) QUESTION BY MYSELF. IM SO PROUD OF MYSELF.
 - I look at his solution and damn, what am i even doing XDDDDDDDDDDD. but at least i manage to find a solution by myself and im really proud of it. See you tomorrow. Thats 1 hard question down.
+
+Day 2:
+
+- I solve 1 medium question on leetcode, and attempt 1 medium question which i know how to do but still cant implement it because of some unclear logic
