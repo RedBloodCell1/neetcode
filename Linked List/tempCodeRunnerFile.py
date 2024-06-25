@@ -1,2 +1,1 @@
-
-# albert.berbicara()
+cur = cur.next
