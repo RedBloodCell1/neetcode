@@ -30,3 +30,16 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - I talk to them for hours so they can be a better person. I really wish i have someone that can tell me this things. because I really wish i have a teacher like me that can teach me an even better mindset or new knowledge. Well that is it for today, I am so happy that i reach the point where learning feels so fun everyday because i really enjoy it. I will continue to gain knowledge so i can be a more valuable person. I PROMISE MYSELF. IN 9 MONTHS, I WILL HAVE MY OWN PROJECT EVEN IF ITS SMALL. MARK MY WORD. I already plan on how long i will be doing DSA and what will i do after that. Stay tune on my life update, Well no one is really reading this, even my own friend and brother xdd. So it doesn't really matter i guess. This is just for myself. Maybe when i read this again one day, i will know that i have reached a greater heights and be grateful of myself in the past.
 - See you tomorrow~ I really love my family, friends, and myself. I will do my absolute best to be a better person everyday.
 - Oh btw, i detoxed for 1 months 10 days now, no games, anime, manga, manhwa, reels, shorts, anything that i feel useless to the progress of my life. Just telling, to see how long will i go without that kind of things xdd. I have fun studying. Its 2 am now. and i am still studying, cant believe i stay up really late for this xddd. See you guys again (Idk who you guys is). This time for real...
+
+## Day 4:
+
+- BAD DAY??? 1 HARD QUESTION????
+
+## Day 5:
+
+- Im gonna grind a lot today. I dont wanna lose to my lil bro. He already did 69 question????? meanwhile me here only did 39. Well if i wanna cope, i could say that i got works to do, but nahh. no coping, skill issue. Grindingg
+- Oh btw, what i mean by grinding is not grinding question but fundamental, skill, and understanding. I wont skip through anything. I will understand everything thoroughly.
+- Took me long enough to understand lru cache. Now i 80% understand it or 100% i guess. I just need to do it
+- Holy frick that took so long
+- Lets go for tree, i did 1 question already by myself. And yeah pretty simple. But next one, i watched the solution and theres 3 way of doing it. Im gonna go for all 3 of them and understand the nook and cranny of it.
+- My brain is toasted. i need to rest. See you tomorrow or later i guess.
