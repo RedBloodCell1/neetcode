@@ -43,3 +43,13 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - Holy frick that took so long
 - Lets go for tree, i did 1 question already by myself. And yeah pretty simple. But next one, i watched the solution and theres 3 way of doing it. Im gonna go for all 3 of them and understand the nook and cranny of it.
 - My brain is toasted. i need to rest. See you tomorrow or later i guess.
+
+## Day 6:
+
+- Lets continue. Tree it is
+
+## Day 7:
+
+- Lets continue. Kibo again, (Kibo is the tree from doraemon if u guys know, so i will call tree kibo. its a cute name)
+- Honest and honest, I struggle a bit for this tree, because yeah. RECURSIONNNN. But im chilling, just keep studying. I got big plans for my future, so yeah.
+- See you tomorrow. Kibo easy done. So hard e
