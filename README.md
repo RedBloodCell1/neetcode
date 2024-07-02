@@ -53,3 +53,10 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - Lets continue. Kibo again, (Kibo is the tree from doraemon if u guys know, so i will call tree kibo. its a cute name)
 - Honest and honest, I struggle a bit for this tree, because yeah. RECURSIONNNN. But im chilling, just keep studying. I got big plans for my future, so yeah.
 - See you tomorrow. Kibo easy done. So hard e
+
+## Day 8:
+
+- I am busy these days, lots of thing to do in work. I will continue today. I will do one kibo, and review maybe all the question from before. Lets start
+- Oh i forgot to mention, even when i got lots of things to do, i still do some leetcode and try to implement merge sort. Well it works and im happy.
+- I just learn that BST is the tree that is balanced on left and right, i mean like, the left is always smaller than the root and right is always bigger than the root
+- I really feel like wow, Tree is getting not easier but more easy in my brain. I really like how my brain feels like its enhanced and i dont even know how it happen. its really cool. See you tomorrow.
