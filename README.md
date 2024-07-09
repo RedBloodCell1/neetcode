@@ -60,3 +60,9 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - Oh i forgot to mention, even when i got lots of things to do, i still do some leetcode and try to implement merge sort. Well it works and im happy.
 - I just learn that BST is the tree that is balanced on left and right, i mean like, the left is always smaller than the root and right is always bigger than the root
 - I really feel like wow, Tree is getting not easier but more easy in my brain. I really like how my brain feels like its enhanced and i dont even know how it happen. its really cool. See you tomorrow.
+
+## Day 9:
+
+- I will be attempting 1 hard problem minimum window with characters.
+- I learned, hard is not worth my time. See you hard. Hello kibo
+- Its been quite a while, I have some event going on so its pretty busy. And im quite busy at work so yeah almost no time to do this. But i will be back soon after my thesis is done. See you guys tomorrow
