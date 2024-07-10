@@ -66,3 +66,7 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - I will be attempting 1 hard problem minimum window with characters.
 - I learned, hard is not worth my time. See you hard. Hello kibo
 - Its been quite a while, I have some event going on so its pretty busy. And im quite busy at work so yeah almost no time to do this. But i will be back soon after my thesis is done. See you guys tomorrow
+
+## Day 10:
+
+- More kibo
