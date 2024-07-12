@@ -70,3 +70,8 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 ## Day 10:
 
 - More kibo
+
+## Day 11:
+
+- Going to backtracking
+- Done subsets. I also done 1 medium daily leetcode question. Maybe i should combine the leetcode to here too? Yeah i should let me do it.
