@@ -81,8 +81,13 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - One backtracking done.
 - Yesterday (IDK what day, the day on this readme is not the literal day but the day i write this), I finished 1 hard problem by myself. feels so good. On leet code. Oh yeah i already put my leetcode here too, cool right? xdd
 
-Day 13:
+# Day 13:
 
 - I did some leetcode yesterday, today im gonna go focus on kibo. Why i skipped to backtracking? Its cause my friend want to study together. Now i realize that its not that efficient. I will not keep focusing on my neetcode until im good. I really like how brain works. Its just cool how you don't understand something and the next day you understand all the things that you don't. Well lets start
 
 - Im very sleepy. Goodnight
+
+# Day 14:
+
+- Continuing Tree, Last tree before hard. THAT IS REALLY HARD. I will continue to backtracking. I will trust my brain and let it handle the rest
+- COntinuing backtracking. ITS HARD SO FRICKIN HARD.
