@@ -91,3 +91,12 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 
 - Continuing Tree, Last tree before hard. THAT IS REALLY HARD. I will continue to backtracking. I will trust my brain and let it handle the rest
 - COntinuing backtracking. ITS HARD SO FRICKIN HARD.
+
+# Day 15:
+
+- Hello, I'm back. Its been such a long time and you may ask why? Well its simply because i got thesis to do. Now that its done (Just need to prepare for the last hurdle). I can finally study with easy again. Lets start. I will go to backtracking again.
+
+# Day 16:
+
+- Continuing backtrackin
+- Done for the day, i revise all 3 backtrack that i did before. Now I got like 95% of understanding for each one
