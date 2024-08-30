@@ -100,3 +100,12 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 
 - Continuing backtrackin
 - Done for the day, i revise all 3 backtrack that i did before. Now I got like 95% of understanding for each one
+
+# Day 17:
+
+- Im gonna try to finish backtrackin today
+
+# Day 18:
+
+- It turns out, trying to finish backtracking from yesyesyesyesterday is just bs. I will finish it TODAY promise.
+- Will continue at night
