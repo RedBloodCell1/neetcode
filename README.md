@@ -109,3 +109,4 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 
 - It turns out, trying to finish backtracking from yesyesyesyesterday is just bs. I will finish it TODAY promise.
 - Will continue at night
+- DONE.... DONE... Actually i kinda break my promise because TODAY is yesterday and not today anymore. but I keep going anyway. So yeah, please cut me some slack. I did finish it and its still today in some other country (Coping hard). See you guys tomorrow (or today xdd). BACKTRACK almost officially done... I forget that i havent 100% one of the question, Roughly understand but too sleepy to continue (At least i finished it). See you guys
