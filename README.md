@@ -110,3 +110,8 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - It turns out, trying to finish backtracking from yesyesyesyesterday is just bs. I will finish it TODAY promise.
 - Will continue at night
 - DONE.... DONE... Actually i kinda break my promise because TODAY is yesterday and not today anymore. but I keep going anyway. So yeah, please cut me some slack. I did finish it and its still today in some other country (Coping hard). See you guys tomorrow (or today xdd). BACKTRACK almost officially done... I forget that i havent 100% one of the question, Roughly understand but too sleepy to continue (At least i finished it). See you guys
+
+# Day 19:
+
+- Will finish tries today. Heap a little probably. Lets go. Before that i need to 100% the backtracking first.
+- Tries is not that hard. Its just a new data structure, or should i simply call it a more complex linked list? XDD. Well i guess its not to hard just because i kinda understand the fundamental of linkedlist. So yeah, lets continue to heap. And btw, just FYI, I havent really do any hard problem on neetcode. I mean i should do it right? But i will be focusing more on the easy and medium problem and leave hard for another time.
