@@ -115,3 +115,8 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 
 - Will finish tries today. Heap a little probably. Lets go. Before that i need to 100% the backtracking first.
 - Tries is not that hard. Its just a new data structure, or should i simply call it a more complex linked list? XDD. Well i guess its not to hard just because i kinda understand the fundamental of linkedlist. So yeah, lets continue to heap. And btw, just FYI, I havent really do any hard problem on neetcode. I mean i should do it right? But i will be focusing more on the easy and medium problem and leave hard for another time.
+
+# Day 20:
+
+- Heap day
+- Done some heap, will continue tmr, see you guys
