@@ -125,3 +125,7 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 
 - Continuing Heap, will try to finish if I can. These day I have been feeling pretty bad because i kinda neglect (not totally). But i feel like i need to learn more. As you can see, i learn once and continue like 3 days later. I don't feel like its eficient, its like im studying with n^2 time complexity. So i promise to myself. I will study and finish 1 question each day. AT LEAST 1 QUESTION, that is all i, So from today and now on. There will be no more gap of my study schedule unless its a really busy day, but I do know that I am not busy at all most of the time. I just yeah LAZY??? I started working out more often these days, I also focus more on lots of things (Less important things). But yeah, from today and now on, I will always spare some time to study. Promise. Maybe some leetcode problems that you guys can't see here sometimes because there are no drawings. But i promise. I will be more serious on this.
 - Gonna sleep, See you tomorrow.
+
+# Day 22:
+
+- I skipped one or two day just because i already did like 6 leetcode question or more, but i just didn't document it because i am doing it in my work laptop. Today i did like 3 question on leetcode, pretty chill. I still keep my promise of Finishing at least 1 question everyday. See you guys tmr
