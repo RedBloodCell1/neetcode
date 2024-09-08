@@ -129,3 +129,10 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 # Day 22:
 
 - I skipped one or two day just because i already did like 6 leetcode question or more, but i just didn't document it because i am doing it in my work laptop. Today i did like 3 question on leetcode, pretty chill. I still keep my promise of Finishing at least 1 question everyday. See you guys tmr
+
+# Day 23:
+
+- Its pretty late, like 0:18 here, but i still need to keep my promise yeah? And yeah, I am not gonna do 1 easy question and go, Im gonna go with a question that is impactful. Doing heap (Design Twitter Feed). Lets go
+- Okay, neetcode video tell me that it is somewhat similar to merge k sorted list which is a hard problem. so i am gonna do that first for today.
+- Okay, another refresher, the merge k sorted list is an extension of merge two sorted linked lists. I am gonna do that again first.
+- I did 1 easy question as a refresher. I think that count as an impactful question. See you guys tomorrow
