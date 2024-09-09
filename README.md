@@ -136,3 +136,8 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - Okay, neetcode video tell me that it is somewhat similar to merge k sorted list which is a hard problem. so i am gonna do that first for today.
 - Okay, another refresher, the merge k sorted list is an extension of merge two sorted linked lists. I am gonna do that again first.
 - I did 1 easy question as a refresher. I think that count as an impactful question. See you guys tomorrow
+
+# Day 24:
+
+- I have solved 2 medium problem on leetcode. I will continue with merge k sorted lists
+- I will try to do merge sort code again because the question uses that and i have used merge sort before, i just need to remember how
