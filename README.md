@@ -141,3 +141,4 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 
 - I have solved 2 medium problem on leetcode. I will continue with merge k sorted lists
 - I will try to do merge sort code again because the question uses that and i have used merge sort before, i just need to remember how
+- Will sleep, See you guys tmr
