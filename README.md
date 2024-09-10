@@ -142,3 +142,7 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 - I have solved 2 medium problem on leetcode. I will continue with merge k sorted lists
 - I will try to do merge sort code again because the question uses that and i have used merge sort before, i just need to remember how
 - Will sleep, See you guys tmr
+
+# Day 25:
+
+- Today, i have solved like 6 problem, or even more? like 8? 4 medium 4 easy on leetcode. I struggle a bit on the easy question and on some medium question. But i still manage to finish all it. Well i got no prove (Or i have and can be seen on my leetcode profile @StudyALot). But yeah, thats it for today
