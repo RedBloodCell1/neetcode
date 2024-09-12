@@ -146,3 +146,11 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 # Day 25:
 
 - Today, i have solved like 6 problem, or even more? like 8? 4 medium 4 easy on leetcode. I struggle a bit on the easy question and on some medium question. But i still manage to finish all it. Well i got no prove (Or i have and can be seen on my leetcode profile @StudyALot). But yeah, thats it for today
+
+# Day 26:
+
+- Starting from today, I will start to actually learn web dev (Full stack). But i will not stop doing DSA too. I will just do it paralelly. See you tomorrow, btw i have done 1 easy question and it teach me about binary. A little bit of coping but im just to tired rn. See you
+
+# Day 27:
+
+- I make i leetcode explanation. Its cool. Thats it for today. I keep my promise and yeah do 1 problem
