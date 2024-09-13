@@ -154,3 +154,7 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 # Day 27:
 
 - I make i leetcode explanation. Its cool. Thats it for today. I keep my promise and yeah do 1 problem
+
+# Day 28:
+
+- Did 1 daily leetcode problem. Im gonna continue studying tomorrow. I have been stressed lately but I realize something important. I have been studying everyday doing 1 problem everyday. Yet what I feel is, I am always coping and I feel like I didn't have time to study meanwhile I know that I have a lot of time for it. But if I really think about it, I am improving each day and I always keep my promise. It just doesn't seem enough. Like I havent even start with the web dev thingies and its stressing me out but i know i shouldn't. It's just, I know that I can do better than this, so the best thing is, I will just do as I want. If I wanna study then I will. Cause I believe myself that Me myself know better about the importance of studying. See you tomorrow
