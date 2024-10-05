@@ -158,3 +158,7 @@ I just realize i dont have any readme file here. So yeah i made one for this.
 # Day 28:
 
 - Did 1 daily leetcode problem. Im gonna continue studying tomorrow. I have been stressed lately but I realize something important. I have been studying everyday doing 1 problem everyday. Yet what I feel is, I am always coping and I feel like I didn't have time to study meanwhile I know that I have a lot of time for it. But if I really think about it, I am improving each day and I always keep my promise. It just doesn't seem enough. Like I havent even start with the web dev thingies and its stressing me out but i know i shouldn't. It's just, I know that I can do better than this, so the best thing is, I will just do as I want. If I wanna study then I will. Cause I believe myself that Me myself know better about the importance of studying. See you tomorrow
+
+# Day 29:
+
+- Well well, Its ben SUCH A LONG TIME. Well i still (kinda) keep my promise of doing a problem each day, just theres always a day skipped and i do 2 the next day. WEll heres a lot of leetcode update solved. And theres even more that i just worked on my other laptop. But yeah. I will still do leetcode and finish neetcode. Just i wanna get better skill for work and i think my DSA is bareable to pass an interview (Not hard one i guess). I will be studying at my own pace (I always try to keep a good pace and to tell you the truth nowadays its not quite good). See you tomorrow
